@@ -1,2 +1,2 @@
 # journey-up
-contains python
+contains python and mini projects
